@@ -2,7 +2,7 @@
 
 - 😀 My name is **Che Thanh**
 
-- 💬 Ask me about anything [here](https://github.com/lechethanh/lechethanh/issues)
+- 💬💬💬💬
 ## 📊 Github Stats
 
 

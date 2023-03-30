@@ -14,3 +14,12 @@
 
 
 ![](https://komarev.com/ghpvc/?username=LeCheThanh&color=red)
+
+
+<p align="center">
+      <a href="https://github.com/LeCheThanh">
+            <p> 👨‍💻 Github Top Used Languages  </p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeCheThanh&theme=moltack&include_all_commits=false&count_private=false&layout=compact" />
+      </a>
+</p>
+

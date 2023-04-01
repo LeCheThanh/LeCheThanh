@@ -2,7 +2,7 @@
 
 - 😀 My name is **Che Thanh**
 
-- 💬💬💬💬
+- 💬I'm new to programming
 ## 📊 Github Stats
 
 

@@ -12,10 +12,6 @@
 ## 💥 Github Streaks 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeCheThanh&theme=moltack)
 
-
-![](https://komarev.com/ghpvc/?username=LeCheThanh&color=red)
-
-
 <p align="center">
       <a href="https://github.com/LeCheThanh">
             <p> 👨‍💻 Github Top Used Languages  </p>

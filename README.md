@@ -3,11 +3,6 @@
 - 😀 My name is **Che Thanh**
 
 - 💬I'm new to programming
-## 📊 Github Stats
-
-
-![](https://github-readme-stats.vercel.app/api?username=LeCheThanh&hide=contribs,prs&theme=moltack)
-
 
 ## 💥 Github Streaks 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeCheThanh&theme=moltack)
